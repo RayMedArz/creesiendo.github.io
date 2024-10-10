@@ -1,0 +1,99 @@
+@font-face {
+    font-family: "Grenadine MVB Medium";
+    src: url(../fonts/grenadine/fonts/fonnts.com-Grenadine_MVB_Medium-1.otf);
+}
+
+@font-face {
+    font-family:"Stinger Variable";
+    src: url(../fonts/stinger/stinger-variable.ttf);
+}
+
+@keyframes slideDown {
+    from {
+        transform: translateY(-100%);
+        opacity: 0;
+    }
+    to {
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+h2{
+    font-family: "Grenadine MVB Medium";
+}
+
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    animation: fadeIn 2s;
+} 
+
+.logoimg {
+    max-width: 50%;
+    height: auto;
+}
+
+.mainTitle {
+    font-size: 5em;
+    margin: 0;
+    font-family: "Grenadine MVB Medium";
+}
+
+
+.navbar{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    background-color: #FBB13c;
+    font-family: 'Courier New', Courier, monospace;
+    box-sizing: border-box;
+    
+}
+
+.navbar a{
+    float: center;
+    font-size: 2em;
+    color: white;
+    text-align: center;
+    padding: 28px 30px;
+    font-family: "Stinger Variable";
+}
+
+.navbar a:hover {
+    background-color: #B9E6FF;
+    color: black;
+}
+
+p {
+    font-family: "Stinger Variable";
+    font-size: 20px;
+    color: black;
+}
+
+.contenedorA {
+    display: flex;
+    align-items: flex-start;
+}
+
+.contenedorA img{
+    margin-left: auto;
+}
+
+.contenedorTexto {
+    display: flex;
+    flex-direction: column;
+    margin-right: 20px;
+}
