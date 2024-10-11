@@ -11,7 +11,7 @@ publicar la pagina siguiendo las reglas de fair use.
 
 Este documento tiene como propósito documentar los avances dentro del proyecto.
 
-(Cressiendo/html/index.html)[main]
+[Pagina principal](Cressiendo/html/index.html)
 
 10/10/2024
 Implementación del archivo ```index.html```, archivo principal
