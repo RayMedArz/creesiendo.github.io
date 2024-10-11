@@ -7,7 +7,7 @@ y con la carpeta **fonts** para las fuetnes usadas en el archivo, cuando se agre
 
 Es importante destacar que aun se necesita hablar con el socio formador para definir que es lo que sea desea incluir en la pagina y cuál es la decisión de diseño a llevar. Tambien es importante hablar con el socio
 formador debido a que las fuentes de las que piden hacer uso solo estan disponibles para suscriptores de adobe y yo no cuento con ellas. Se uso una letra similar pero se recomienda conseguir la licensia para poder 
-publicar la pagina siguiendo las ( https://www.copyright.gov/fair-use)["Reglas de fair use"].
+publicar la pagina siguiendo las (https://www.copyright.gov/fair-use )["Reglas de fair use"].
 
 Este documento tiene como propósito documentar los avances dentro del proyecto.
 
