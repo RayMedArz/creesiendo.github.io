@@ -7,13 +7,15 @@ y con la carpeta **fonts** para las fuetnes usadas en el archivo, cuando se agre
 
 Es importante destacar que aun se necesita hablar con el socio formador para definir que es lo que sea desea incluir en la pagina y cuál es la decisión de diseño a llevar. Tambien es importante hablar con el socio
 formador debido a que las fuentes de las que piden hacer uso solo estan disponibles para suscriptores de adobe y yo no cuento con ellas. Se uso una letra similar pero se recomienda conseguir la licensia para poder 
-publicar la pagina siguiendo las (https://www.copyright.gov/fair-use )["Reglas de fair use"].
+publicar la pagina siguiendo las reglas de fair use.
 
 Este documento tiene como propósito documentar los avances dentro del proyecto.
 
+(Cressiendo/html/index.html)[main]
+
 10/10/2024
-Implementación del archivo (Cressiendo/html/index.html)[```index.html```], archivo principal
+Implementación del archivo ```index.html```, archivo principal
 Implementación del archivo ```index.css```, contiene las clases de css para index.html
-Implementación del archivo (Cressiendo/html/mision.html)[```mision.html```], archivo con misión, visión y objetivos de la organización
+Implementación del archivo ```mision.html```, archivo con misión, visión y objetivos de la organización
 Implementación del archivo ```mision.css```, contiene las clases de css para mision.html
 Implementación del archivo ```equipo.html```, diseño y funcionalidad aun no asignada
