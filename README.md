@@ -19,3 +19,8 @@ Implementación del archivo ```index.css```, contiene las clases de css para ind
 Implementación del archivo ```mision.html```, archivo con misión, visión y objetivos de la organización
 Implementación del archivo ```mision.css```, contiene las clases de css para mision.html
 Implementación del archivo ```equipo.html```, diseño y funcionalidad aun no asignada
+
+29/11/2024
+Implementación del archivo ```hcero.html```, pagina hablando sobre hambre cero
+Implementación del archivo ```hcero.css```, contiene las clases de css para hcero.html
+Implementación del archivo ```hcero.js```, contiene el script de js para hcero.html
