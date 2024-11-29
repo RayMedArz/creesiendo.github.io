@@ -1,0 +1,110 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    font-family: "Stinger Variable";
+    height: 100%;
+    overflow-x: hidden;
+  }
+
+  @font-face {
+    font-family: "Grenadine MVB Medium";
+    src: url(../fonts/grenadine/fonts/fonnts.com-Grenadine_MVB_Medium-1.otf);
+    }
+
+    @font-face {
+        font-family:"Stinger Variable";
+        src: url(../fonts/stinger/stinger-variable.ttf);
+    }
+  
+  .mainTitle {
+    font-size: 5em;
+    margin: 0;
+    font-family: "Grenadine MVB Medium";
+    }
+
+    .logoimg {
+        max-width: 50%;
+        height: auto;
+    }
+  
+  .parallax {
+    height: 100vh; /* Ocupa toda la pantalla */
+    background-image: url('../../img/hambrecero.jpg'); /* Reemplaza con tu imagen */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-position 0.1s ease-in-out;
+  }
+  
+  .content {
+    height: 200vh; /* Aumenta la altura para hacer scroll */
+    padding: 20px;
+    background-color: #fbb13c;
+  }
+
+  .navbar{
+    overflow: hidden;
+    background-color: #FBB13c;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.navbar a{
+    float: center;
+    font-size: 2em;
+    color: white;
+    text-align: center;
+    padding: 28px 30px;
+    font-family: "Stinger Variable";
+}
+
+.navbar a:hover {
+    background-color: #B9E6FF;
+    color: black;
+}
+  
+  h1 {
+    text-align: center;
+    margin-top: 50px;
+    color: white;
+    font-family: "Grenadine MVB Medium";
+  }
+
+  h2 {
+    text-align: center;
+    margin-top: 50px;
+    color: white;
+    font-family: "Grenadine MVB Medium";
+  }
+  
+  p {
+    max-width: 600px;
+    margin: 20px auto;
+    line-height: 1.6;
+    color: white;
+    font-size: 1.5em;
+    font-family: "Stinger Variable";
+  }
+
+  ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    color:white;
+    font-family: "Stinger Variable";
+    max-width: 600px;
+    margin: 20px auto;
+    line-height: 1.6;
+    font-size: 1.5em;
+    
+  }
+
+  ul.lista-con-imagen li {
+    background-image: url('../../img/logo.png');
+    background-size: 20px 20px; /* Tamaño del bullet personalizado */
+    background-repeat: no-repeat; /* Evitar repetir la imagen */
+    background-position: left center; /* Posición del bullet */
+    padding-left: 30px; /* Espacio para la imagen y el texto */
+    line-height: 1.6; /* Espaciado entre líneas */
+  }
